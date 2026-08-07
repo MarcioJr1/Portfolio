@@ -1,4 +1,4 @@
-<h1>Olá, Sou o Marcio! <br/><a href="https://www.linkedin.com/in/marcio-junior-3a34371b0/">????</a></h1>
+<h1>Olá, Sou o Marcio! <br/><a href="https://www.linkedin.com/in/marcio-junior-3a34371b0/" target="_blank">????</a></h1>
 
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
