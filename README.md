@@ -1,4 +1,4 @@
-<h1>Olá, Sou o Marcio! <br/><a href="https://www.linkedin.com/in/marcio-junior-3a34371b0/" target="_blank">????</a></h1>
+<h1>Olá, Sou o Marcio! <br/><a href="https://www.linkedin.com/in/marcio-junior-3a34371b0/" target="_blank" rel="noopener noreferrer">????</a></h1>
 
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
@@ -18,7 +18,6 @@
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/marcio-junior-3a34371b0/
 
 <!--
